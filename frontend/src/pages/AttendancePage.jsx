@@ -3,7 +3,7 @@ import { getEmployees, getAttendance, markAttendance, getAttendanceSummary } fro
 import { toast } from 'sonner';
 import { CalendarCheck, CalendarDays, UserCheck, UserX, BarChart3, ChevronDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
+import { Badge } from '@/components/ui/badge'; 
 import { Skeleton } from '@/components/ui/skeleton';
 import { Calendar } from '@/components/ui/calendar'; 
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
